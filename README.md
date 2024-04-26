@@ -1,6 +1,6 @@
 <h1 align="center">Expense Tracker App</h1>
 
-<h2 align="center">This is an expense tracker app in Asp.Net Core MVC (6.0.24) using SyncFusion Components (24.1.43).</h2>
+<h2 align="center">This is an expense tracker app in Asp.Net Core MVC .</h2>
 
 
 # Dashboard :
